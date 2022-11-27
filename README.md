@@ -6,8 +6,11 @@
 | Name | Description | Team |
 |---|---|---|
 | [Breaking Into Open Source](https://www.pubhouse.net/breaking-into-open-source) | Have you ever wondered what would it be to contribute to open source software. Or being curious on how to get started? Well, wonder no more! In this podcast we let Bob and Josh take us through the tour of the wonderful world of open source, as seen through developers. Come, subscribe and take a listen! | Bob Paulin and Josh Juneau |
+| [The Pipeline](https://cdeliveryfdn.buzzsprout.com/) | All Things CD &amp; DevOps Podcast. | CD Foundation |
 | [FLOSS Weekly](https://twit.tv/shows/floss-weekly) | All about Free Libre Open Source Software. | Redhat |
 | [Kubernetes Podcast from Google](https://kubernetespodcast.com/) | A weekly podcast focused on what&#39;s happening in the Kubernetes community. | Abdel Sghiouar and Kaslin fields |
 | [Open Source Security](https://opensourcesecurity.io/) | Security |  |
 | [Open Source Startup Podcast](https://oss-startup-podcast.launchnotes.io/) | Learning how to build an open-source startup. | Robby (Cowboy VC) &amp; Tim (Essence VC) |
+| [Open Source Stories](https://www.opensourcestories.org/) | A collection of stories about open source from all over the world |  |
 | [The Changelog](https://changelog.com/podcast) | Conversations with the hackers, leaders, and innovators of the software world. |  |
+| [The Craft Of Open Source](https://flagsmith.com/) | This bi-weekly show is focused on the ins and outs of the Open Source Software Community. | Ben Rometsch |
